@@ -1,3 +1,3 @@
 # Classifier-for-bank-marketing-campaign
  
-Testing
+This project is designed to explore machine learning models and methods for the task of classification
